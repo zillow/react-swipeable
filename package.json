@@ -1,5 +1,5 @@
 {
-  "name": "react-swipeable",
+  "name": "@zillow/react-swipeable",
   "version": "3.6.0",
   "description": "Swipe bindings for react",
   "main": "lib/Swipeable.js",
